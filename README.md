@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/itsan2448/leetcode-solutions-/tree/master/0196-delete-duplicate-emails) |
 | [1278-product-price-at-a-given-date](https://github.com/itsan2448/leetcode-solutions-/tree/master/1278-product-price-at-a-given-date) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/itsan2448/leetcode-solutions-/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1664-find-users-with-valid-e-mails](https://github.com/itsan2448/leetcode-solutions-/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/itsan2448/leetcode-solutions-/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
