@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/itsan2448/leetcode-solutions-/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/itsan2448/leetcode-solutions-/tree/master/0196-delete-duplicate-emails) |
+| [0585-investments-in-2016](https://github.com/itsan2448/leetcode-solutions-/tree/master/0585-investments-in-2016) |
 | [1278-product-price-at-a-given-date](https://github.com/itsan2448/leetcode-solutions-/tree/master/1278-product-price-at-a-given-date) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/itsan2448/leetcode-solutions-/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/itsan2448/leetcode-solutions-/tree/master/1664-find-users-with-valid-e-mails) |
