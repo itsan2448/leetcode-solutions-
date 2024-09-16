@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
+| [1013-fibonacci-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
