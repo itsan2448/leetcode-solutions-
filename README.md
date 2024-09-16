@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/itsan2448/leetcode-solutions-/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/itsan2448/leetcode-solutions-/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/itsan2448/leetcode-solutions-/tree/master/1670-patients-with-a-condition) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/itsan2448/leetcode-solutions-/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/itsan2448/leetcode-solutions-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
