@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
+## Hash Table
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
