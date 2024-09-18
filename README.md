@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/itsan2448/leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/itsan2448/leetcode-solutions-/tree/master/0089-gray-code) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
