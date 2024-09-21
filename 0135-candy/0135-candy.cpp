@@ -11,8 +11,8 @@ public:
         }
 
         for(int i=n-2;i>=0;i--){
-            if(r[i]>r[i+1] && can[i]<can[i+1]+1){
-                can[i]=can[i+1]+1;
+            if(r[i]>r[i+1]){
+                can[i]=max(can[i],can[i+1]+1);
             }
         }
 
