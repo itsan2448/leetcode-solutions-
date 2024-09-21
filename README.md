@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/itsan2448/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/itsan2448/leetcode-solutions-/tree/master/0135-candy) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/itsan2448/leetcode-solutions-/tree/master/0006-zigzag-conversion) |
+| [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/itsan2448/leetcode-solutions-/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0386-lexicographical-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
