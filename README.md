@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/itsan2448/leetcode-solutions-/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/itsan2448/leetcode-solutions-/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/itsan2448/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/itsan2448/leetcode-solutions-/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
