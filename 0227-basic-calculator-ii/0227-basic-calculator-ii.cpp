@@ -1,6 +1,7 @@
 class Solution {
 public:
     int calculate(string s) {
+        s+='+';
         stack<int> st;
         char op = '+';
         int a=0;
@@ -8,7 +9,7 @@ public:
             if(isdigit(s[i])){
                 a=a*10+(s[i]-'0');
             }
-            if(!isdigit(s[i]) && s[i]!=' ' || i==s.size()-1){
+            if(!isdigit(s[i]) && s[i]!=' '){
                 if(op=='+') st.push(a);
                 else if(op=='-') st.push(-a);
                 else if(op=='*'){
