@@ -12,12 +12,7 @@ public:
         int bookings=0;
         for(auto i:m){
             bookings+=i.second;
-            ans=max(ans,bookings);
-            // if(bookings==3){
-            //     m[start]--;
-            //     m[end]++;
-            //     return 0;
-            // }
+            ans=max(ans,bookings);            
         }
         return ans;
     }
