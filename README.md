@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/itsan2448/leetcode-solutions-/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
