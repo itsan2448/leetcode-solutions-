@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/itsan2448/leetcode-solutions-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/2755-extra-characters-in-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/itsan2448/leetcode-solutions-/tree/master/0024-swap-nodes-in-pairs) |
+| [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
 ## Database
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0732-my-calendar-iii) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
