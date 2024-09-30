@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/itsan2448/leetcode-solutions-/tree/master/0283-move-zeroes) |
 ## Math
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/itsan2448/leetcode-solutions-/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0086-partition-list) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
