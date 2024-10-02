@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/itsan2448/leetcode-solutions-/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0086-partition-list) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
