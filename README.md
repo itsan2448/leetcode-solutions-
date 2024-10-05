@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/itsan2448/leetcode-solutions-/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/itsan2448/leetcode-solutions-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/itsan2448/leetcode-solutions-/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/2755-extra-characters-in-a-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/itsan2448/leetcode-solutions-/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/itsan2448/leetcode-solutions-/tree/master/0274-h-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
