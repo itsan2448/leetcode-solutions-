@@ -6,7 +6,7 @@ public:
 
         if(n>m) return 0;
 
-        map<char,int> m1, m2;
+        unordered_map<char,int> m1, m2;
 
         for(auto i:s1){
             m1[i]++;
