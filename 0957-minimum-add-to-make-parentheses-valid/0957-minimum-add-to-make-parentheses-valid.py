@@ -1,6 +1,6 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        o,c=0,0
+        o,c=0,0 # unmatched ( and )
         for i in range(len(s)):
             if s[i]=='(':
                 o+=1
