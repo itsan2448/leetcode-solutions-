@@ -11,7 +11,7 @@ public:
     }
     char findKthBit(int n, int k) {
         string s="0";
-        // string s1="0";
+        
         for(int i=1;i<n;i++){
             string tmp=s+'1'+inv_rev(s);
             s=tmp;
