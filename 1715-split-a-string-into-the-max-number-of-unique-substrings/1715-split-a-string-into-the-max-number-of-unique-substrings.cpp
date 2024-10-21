@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int helper(unordered_set<string> &subs,string s,int b){
+    int helper(set<string> &subs,string s,int b){
         if(b==s.size()) return 0;
         int ans=0;
         for(int e=b+1;e<=s.size();e++){ //producing all possible substrings
@@ -14,7 +14,7 @@ public:
         return ans;
     }
     int maxUniqueSplit(string s) {
-        unordered_set<string> subs; 
+        set<string> subs; 
         return helper(subs,s,0);    //set, string, begin_index        
     }
 };
