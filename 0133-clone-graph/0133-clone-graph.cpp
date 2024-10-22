@@ -23,8 +23,7 @@ class Solution {
 public:
     Node* clone(Node* node,map<Node*,Node*> &old){        
         if(old.find(node)!=old.end()) return old[node]; 
-        // graph has been copied successfully
-        // if(!node) return NULL;
+        // graph has been copied successfully        
         Node* copy=new Node(node->val);
         old[node]=copy;
         for(auto n:node->neighbors){
