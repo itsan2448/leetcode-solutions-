@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/itsan2448/leetcode-solutions-/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Trie
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
