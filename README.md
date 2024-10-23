@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/itsan2448/leetcode-solutions-/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0967-minimum-falling-path-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/itsan2448/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
+| [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
