@@ -14,18 +14,22 @@ public:
     bool isCousins(TreeNode* root, int x, int y) {
         if(!root) return 0;
         unordered_map<int,pair<int,int>> m; //node val, (parent val, level)
-        int level=1;
+        
         queue<pair<TreeNode*,TreeNode*>> q; // node,parent
 
-        if(root->left){
-            q.push({root->left,root});
-            m[root->left->val]={root->val,level};
-        }
+        int level=0;
+        q.push({root,NULL});
+        m[root->val]={0,level};
         
-        if(root->right){
-            q.push({root->right,root});
-            m[root->right->val]={root->val,level};
-        }              
+        // if(root->left){
+        //     q.push({root->left,root});
+        //     m[root->left->val]={root->val,level};
+        // }
+        
+        // if(root->right){
+        //     q.push({root->right,root});
+        //     m[root->right->val]={root->val,level};
+        // }              
 
         while(!q.empty()){
             level++;
