@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/itsan2448/leetcode-solutions-/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/itsan2448/leetcode-solutions-/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/itsan2448/leetcode-solutions-/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0227-basic-calculator-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/itsan2448/leetcode-solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/itsan2448/leetcode-solutions-/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/itsan2448/leetcode-solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/itsan2448/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/itsan2448/leetcode-solutions-/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/itsan2448/leetcode-solutions-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/itsan2448/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itsan2448/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/itsan2448/leetcode-solutions-/tree/master/0279-perfect-squares) |
