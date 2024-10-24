@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
+| [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
