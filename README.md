@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/itsan2448/leetcode-solutions-/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/itsan2448/leetcode-solutions-/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/itsan2448/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itsan2448/leetcode-solutions-/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/itsan2448/leetcode-solutions-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itsan2448/leetcode-solutions-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
