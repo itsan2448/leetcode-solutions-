@@ -5,21 +5,20 @@ public:
         set<int> s(nums.begin(),nums.end());
         int ans=0;
         for(auto i:s){          
-            int tmp=0;  //tmp streak
+            int tmp=1;  //tmp streak
             long long x=i; //current
-            // while(s.find(x)!=s.end()){
-            //     int root=sqrt(x);
-            //     if(root*root==x){//perfect square
-            //         tmp++;                    
-            //         x=root;
-            //     }else{
-            //         break;
-            //     }                
-            // 
-            while(s.find(x)!=s.end()){                
-                tmp++;                    
-                x*=x;  
-                if(x>100000)break;                        
+            while(s.find(x)!=s.end()){
+                int root=sqrt(x);
+                if(root*root==x && s.find(root)!=s.end()){//perfect square
+                    tmp++;                    
+                    x=root;
+                }else{
+                    break;
+                }                
+                                      
+            //     tmp++;                    
+            //     x*=x;  
+            //     if(x>100000)break;                 
             }   
             ans=max(ans,tmp);                    
         }
