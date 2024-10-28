@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
         if(nums.empty())return -1;
-        set<int> s(nums.begin(),nums.end());
+        unordered_set<int> s(nums.begin(),nums.end());
         int ans=0;
         for(auto i:s){          
             int tmp=1;  //tmp streak
@@ -14,11 +14,7 @@ public:
                     x=root;
                 }else{
                     break;
-                }                
-                                      
-            //     tmp++;                    
-            //     x*=x;  
-            //     if(x>100000)break;                 
+                }                                          
             }   
             ans=max(ans,tmp);                    
         }
