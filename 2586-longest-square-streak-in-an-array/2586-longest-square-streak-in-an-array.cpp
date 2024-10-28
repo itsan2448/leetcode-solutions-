@@ -6,7 +6,7 @@ public:
         int ans=0;
         for(auto i:s){          
             int tmp=1;  //tmp streak
-            long long x=i; //current
+            int x=i; //current
             while(s.find(x)!=s.end()){
                 int root=sqrt(x);
                 if(root*root==x && s.find(root)!=s.end()){//perfect square
