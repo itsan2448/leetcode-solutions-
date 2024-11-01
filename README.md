@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/itsan2448/leetcode-solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/itsan2448/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/itsan2448/leetcode-solutions-/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/itsan2448/leetcode-solutions-/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0433-minimum-genetic-mutation) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/itsan2448/leetcode-solutions-/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/itsan2448/leetcode-solutions-/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
 ## Database
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/itsan2448/leetcode-solutions-/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/0729-my-calendar-i) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/itsan2448/leetcode-solutions-/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 ## Counting Sort
 |  |
