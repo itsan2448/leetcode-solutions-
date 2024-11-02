@@ -33,9 +33,9 @@ public:
                 prev = cur;
                 cur = tmp;
             }
-            ListNode *tmp = groupPrev->next;
-            groupPrev->next = kth;
-            groupPrev = tmp;
+            ListNode *tmp = groupPrev->next; // start of the reversed grp
+            groupPrev->next = kth; // kth is the head of the reversed grp
+            groupPrev = tmp; // tmp which is now the last node of the reversed group
         }
         return dum->next;
     }
