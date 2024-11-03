@@ -3,8 +3,7 @@ public:
     priority_queue<int,vector<int>> small;
     priority_queue<int,vector<int>,greater<int>> large;
     
-    MedianFinder() {
-        
+    MedianFinder() {        
     }
     
     void addNum(int num) {
