@@ -17,7 +17,8 @@ class Solution:
     def maxProfit(self, p: List[int]) -> int:
         
         n=len(p)
-        dp=[[[0]*3 for i in range(2)] for j in range(n+1)]
+        after = [[0]*3  for j in range(2)]
+        cur = [[0]*3  for j in range(2)]
         
         '''
         # base case 1 : cap=0
@@ -34,11 +35,11 @@ class Solution:
             for j in range(2):
                 for k in range(1,3): #cap=0, base case
                     if j==1:
-                        dp[i][j][k]= max(-p[i]+dp[i+1][0][k],dp[i+1][1][k])
+                        cur[j][k]= max(-p[i]+ after[0][k], after[1][k])
                     else :
-                        dp[i][j][k]=max(p[i]+dp[i+1][1][k-1],dp[i+1][0][k])
-
-        return dp[0][1][2]
+                        cur[j][k]=max(p[i]+ after[1][k-1], after[0][k])
+            after = cur
+        return cur[1][2]
 
 
 
