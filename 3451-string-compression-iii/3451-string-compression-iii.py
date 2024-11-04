@@ -2,8 +2,7 @@ class Solution:
     # def add(self, word):
 
     def compressedString(self, word: str) -> str:
-        ans=""
-        
+        ans=""        
         i,j=0,0
         while j<len(word):            
             while j<len(word) and j-i<9 and word[i]==word[j]:                
