@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/itsan2448/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itsan2448/leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/itsan2448/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itsan2448/leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/itsan2448/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/itsan2448/leetcode-solutions-/tree/master/0135-candy) |
