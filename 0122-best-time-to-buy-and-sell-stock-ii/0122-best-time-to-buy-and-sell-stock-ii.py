@@ -12,4 +12,4 @@ class Solution:
             aheadBuy, aheadNotBuy=curBuy, curNotBuy 
             
 
-        return aheadBuy
+        return curBuy
