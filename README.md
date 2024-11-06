@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/itsan2448/leetcode-solutions-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/itsan2448/leetcode-solutions-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/itsan2448/leetcode-solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/itsan2448/leetcode-solutions-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/itsan2448/leetcode-solutions-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/itsan2448/leetcode-solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/itsan2448/leetcode-solutions-/tree/master/0089-gray-code) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/itsan2448/leetcode-solutions-/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
