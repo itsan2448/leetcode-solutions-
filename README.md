@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/itsan2448/leetcode-solutions-/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/itsan2448/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/itsan2448/leetcode-solutions-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/itsan2448/leetcode-solutions-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/0729-my-calendar-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/itsan2448/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/itsan2448/leetcode-solutions-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsan2448/leetcode-solutions-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/itsan2448/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0732-my-calendar-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/itsan2448/leetcode-solutions-/tree/master/1694-make-sum-divisible-by-p) |
