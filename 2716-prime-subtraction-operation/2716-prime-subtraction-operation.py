@@ -6,23 +6,24 @@ class Solution:
         for i in range (2,int(sqrt(1000)+1)):
             if isPrime[i]:
                 for j in range(i*i,1001,i):
-                    isPrime[j]=False                        
+                    isPrime[j]=False                                
+        
+        Primes=[0,0] # lets store the last big prime
+        for i in range(2,max(nums)):
+            if isPrime[i]:
+                Primes.append(i)
+            else :
+                Primes.append(Primes[i-1])
 
         n = len(nums)
-        
+
         prev = 0
         for n in nums:
             upperBound = n - prev # non-inclusive
-            LargestPrime = 0
-            for i in reversed(range (2,upperBound)):
-                if isPrime[i]:
-                    LargestPrime = i
-                    break
+            LargestPrime = Primes[upperBound - 1]
             if n-LargestPrime <= prev:
                 return False
                 
             prev = n - LargestPrime
 
         return True
-
-
