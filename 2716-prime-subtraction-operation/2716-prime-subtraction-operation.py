@@ -6,9 +6,7 @@ class Solution:
         for i in range (2,int(sqrt(1000)+1)):
             if isPrime[i]:
                 for j in range(i*i,1001,i):
-                    isPrime[j]=False
-                
-        # primes=[i for i in range(2,1001) where isPrime[i]]
+                    isPrime[j]=False                        
 
         n = len(nums)
         
