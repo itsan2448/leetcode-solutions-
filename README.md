@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/itsan2448/leetcode-solutions-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/itsan2448/leetcode-solutions-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2479-meeting-rooms-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/itsan2448/leetcode-solutions-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1256-rank-transform-of-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2479-meeting-rooms-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/itsan2448/leetcode-solutions-/tree/master/2554-minimum-total-distance-traveled) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0732-my-calendar-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/itsan2448/leetcode-solutions-/tree/master/2716-prime-subtraction-operation) |
 ## Binary Tree
