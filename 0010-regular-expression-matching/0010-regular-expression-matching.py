@@ -1,5 +1,29 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
+        # memoisation code
+
+        def dfs(i,j):
+            if i>=len(s) and j>=len(p):
+                return True
+            if j>=len(p):
+                return False
+
+            match = (i<len(s) and (s[i]==p[j] or p[j]=='.'))
+
+            if (j+1)<len(p) and p[j+1]=='*':
+                return ((match and dfs(i+1,j)) or dfs(i,j+2))
+            # use a*
+            # not use a*
+            if match :
+                return dfs(i+1,j+1)
+            return False
+
+        return dfs(0,0)
+
+
+        '''
+        # tabulation code
+
         if s==None or p==None:
             return False
 
@@ -25,3 +49,4 @@ class Solution:
                         dp[i+1][j+1] = dp[i][j+1] | dp[i+1][j] | dp[i+1][j-1]
 
         return dp[n][m]
+        '''
