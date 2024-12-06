@@ -12,6 +12,6 @@ class Solution:
                 continue
             sum+=i
             if sum>maxSum:
-                break
+                return c
             c+=1
         return c
