@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/itsan2448/leetcode-solutions-/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/itsan2448/leetcode-solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/itsan2448/leetcode-solutions-/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/itsan2448/leetcode-solutions-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/itsan2448/leetcode-solutions-/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/itsan2448/leetcode-solutions-/tree/master/1197-parsing-a-boolean-expression) |
