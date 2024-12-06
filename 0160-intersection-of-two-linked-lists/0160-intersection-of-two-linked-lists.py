@@ -7,6 +7,8 @@
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         l1,l2 = headA,headB
+        # the first time l1,l2 intersect is the answer we need,
+        # we iterate the list twice but T.C. is still O(m+m)
         while l1!=l2:
             l1 = l1.next if l1 else headB
             l2 = l2.next if l2 else headA
