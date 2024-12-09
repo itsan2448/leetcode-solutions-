@@ -12,6 +12,6 @@ class Solution:
         ans = []
         for q in queries:
             l,r=q[0],q[1]
-            s = pre[r]- (pre[l] if l>0 else 0)
+            s = pre[r]-pre[l] 
             ans.append(s==0)
         return ans
