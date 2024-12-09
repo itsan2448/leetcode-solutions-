@@ -5,7 +5,7 @@ class Solution:
         pre = [0]*n
         for i in range(1,n):
             pre[i]=pre[i-1]
-            if (nums[i-1]+nums[i])%2==0:
+            if nums[i-1]%2==nums[i]%2:
                 pre[i]+=1
         
         # Step 2: Process Queries
