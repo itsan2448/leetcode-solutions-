@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/itsan2448/leetcode-solutions-/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/itsan2448/leetcode-solutions-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/itsan2448/leetcode-solutions-/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/itsan2448/leetcode-solutions-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/itsan2448/leetcode-solutions-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/itsan2448/leetcode-solutions-/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/itsan2448/leetcode-solutions-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itsan2448/leetcode-solutions-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/itsan2448/leetcode-solutions-/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/itsan2448/leetcode-solutions-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/itsan2448/leetcode-solutions-/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/itsan2448/leetcode-solutions-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/itsan2448/leetcode-solutions-/tree/master/2164-two-best-non-overlapping-events) |
 | [2479-meeting-rooms-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2479-meeting-rooms-iii) |
