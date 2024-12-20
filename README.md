@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/itsan2448/leetcode-solutions-/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/itsan2448/leetcode-solutions-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itsan2448/leetcode-solutions-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/itsan2448/leetcode-solutions-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/itsan2448/leetcode-solutions-/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/itsan2448/leetcode-solutions-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/itsan2448/leetcode-solutions-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2677-cousins-in-binary-tree-ii) |
