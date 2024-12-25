@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/itsan2448/leetcode-solutions-/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0433-minimum-genetic-mutation) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/itsan2448/leetcode-solutions-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/itsan2448/leetcode-solutions-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/itsan2448/leetcode-solutions-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/itsan2448/leetcode-solutions-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
