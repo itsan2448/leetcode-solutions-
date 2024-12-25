@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsan2448/leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/itsan2448/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/itsan2448/leetcode-solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0241-different-ways-to-add-parentheses) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/itsan2448/leetcode-solutions-/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/itsan2448/leetcode-solutions-/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/itsan2448/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/itsan2448/leetcode-solutions-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0212-word-search-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/itsan2448/leetcode-solutions-/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/itsan2448/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0212-word-search-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/itsan2448/leetcode-solutions-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
