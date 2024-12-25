@@ -3,7 +3,7 @@ class Solution:
         def pal(s):
             # string ==reverse string
             return s==s[::-1]
-            
+        #  path : current substrings -
         def backtrack(i,path):
             if i==len(s):
                 ans.append(path[:])  #shallow copy
