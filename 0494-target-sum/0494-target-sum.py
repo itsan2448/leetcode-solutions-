@@ -13,13 +13,24 @@ class Solution:
 
         # O(n*sum(nums))
 
-        # bottomUp
-        n=len(nums)
-        dp = [defaultdict(int) for i in range(n+1)]
-        dp[0][0]=1 # (0 element, 0 sum)-> 1 way to achieve 
-        for i in range(n):
-            for sum,count in dp[i].items():
-                dp[i+1][sum + nums[i]] += count
-                dp[i+1][sum - nums[i]] += count
-        return dp[len(nums)][target]
+        # # bottomUp 2d
+        # n=len(nums)
+        # dp = [defaultdict(int) for i in range(n+1)]
+        # dp[0][0]=1 # (0 element, 0 sum)-> 1 way to achieve 
+        # for i in range(n):
+        #     for sum,count in dp[i].items():
+        #         dp[i+1][sum + nums[i]] += count
+        #         dp[i+1][sum - nums[i]] += count
+        # return dp[len(nums)][target]
 
+        # bottomUp 1d
+        n=len(nums)
+        dp = defaultdict(int)
+        dp[0]=1 # (0 sum)-> 1 way to achieve 
+        for i in range(n):
+            nxtDp=defaultdict(int)
+            for sum,count in dp.items():
+                nxtDp[sum + nums[i]] += count
+                nxtDp[sum - nums[i]] += count
+            dp=nxtDp
+        return dp[target]
