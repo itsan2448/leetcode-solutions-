@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/itsan2448/leetcode-solutions-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/itsan2448/leetcode-solutions-/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/itsan2448/leetcode-solutions-/tree/master/0178-rank-scores) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/itsan2448/leetcode-solutions-/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/itsan2448/leetcode-solutions-/tree/master/0585-investments-in-2016) |
 | [1278-product-price-at-a-given-date](https://github.com/itsan2448/leetcode-solutions-/tree/master/1278-product-price-at-a-given-date) |
