@@ -3,6 +3,7 @@ class Solution:
         ans=0
         # maximise 2 values
         # minimise 2 distance
+        # o(n)
         cur_max = values[0]-1
         for i in range(1,len(values)):
             ans = max(ans,cur_max+values[i])
