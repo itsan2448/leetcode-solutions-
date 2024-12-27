@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/itsan2448/leetcode-solutions-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/itsan2448/leetcode-solutions-/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/itsan2448/leetcode-solutions-/tree/master/0196-delete-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/itsan2448/leetcode-solutions-/tree/master/0585-investments-in-2016) |
