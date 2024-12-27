@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/itsan2448/leetcode-solutions-/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/itsan2448/leetcode-solutions-/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/itsan2448/leetcode-solutions-/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itsan2448/leetcode-solutions-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/itsan2448/leetcode-solutions-/tree/master/2164-two-best-non-overlapping-events) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
 | [1002-maximum-width-ramp](https://github.com/itsan2448/leetcode-solutions-/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/itsan2448/leetcode-solutions-/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/itsan2448/leetcode-solutions-/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/itsan2448/leetcode-solutions-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itsan2448/leetcode-solutions-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
