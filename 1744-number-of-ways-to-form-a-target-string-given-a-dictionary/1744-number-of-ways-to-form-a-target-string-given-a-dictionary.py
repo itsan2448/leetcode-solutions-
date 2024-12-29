@@ -17,9 +17,10 @@ class Solution:
                 return dp[(i,k)]            
             c=target[i] # req character
             # on skip kth character
-            skip = dfs(i,k+1)
+            dp[(i,k)]=dfs(i,k+1)
             # include character
-            inc = dfs(i+1,k+1)*cnt[(k,c)]
-            dp[(i,k)]= (skip+inc)%mod
+            if cnt[(k,c)]!=0:
+                dp[(i,k)]+=dfs(i+1,k+1)*cnt[(k,c)]
+            dp[(i,k)]%=mod
             return dp[(i,k)]        
         return dfs(0,0)    
