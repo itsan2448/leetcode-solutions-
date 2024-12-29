@@ -14,14 +14,12 @@ class Solution:
             if k==len(words[0]):
                 return 0 # not built
             if (i,k) in dp:
-                return dp[(i,k)]
-            
+                return dp[(i,k)]            
             c=target[i] # req character
             # on skip kth character
             skip = dfs(i,k+1)
             # include character
             inc = dfs(i+1,k+1)*cnt[(k,c)]
             dp[(i,k)]= (skip+inc)%mod
-            return dp[(i,k)]
-        
+            return dp[(i,k)]        
         return dfs(0,0)    
