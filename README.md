@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/itsan2448/leetcode-solutions-/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/itsan2448/leetcode-solutions-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/itsan2448/leetcode-solutions-/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/itsan2448/leetcode-solutions-/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/itsan2448/leetcode-solutions-/tree/master/0585-investments-in-2016) |
 | [1278-product-price-at-a-given-date](https://github.com/itsan2448/leetcode-solutions-/tree/master/1278-product-price-at-a-given-date) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/itsan2448/leetcode-solutions-/tree/master/1462-list-the-products-ordered-in-a-period) |
