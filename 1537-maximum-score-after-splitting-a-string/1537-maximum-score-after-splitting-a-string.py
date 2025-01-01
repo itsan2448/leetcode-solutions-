@@ -10,8 +10,7 @@ class Solution:
         z=0
         for i in range(len(s)-1):
             if s[i]=='0':
-                z+=1
-            # else:
+                z+=1            
             ans=max(ans,z+pre[len(s)-1]-pre[i])
         
         return ans
