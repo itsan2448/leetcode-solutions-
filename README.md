@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/itsan2448/leetcode-solutions-/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/itsan2448/leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/itsan2448/leetcode-solutions-/tree/master/0300-longest-increasing-subsequence) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/itsan2448/leetcode-solutions-/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0967-minimum-falling-path-sum) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0096-unique-binary-search-trees) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/itsan2448/leetcode-solutions-/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 ## Heap (Priority Queue)
