@@ -10,6 +10,6 @@ class Solution:
                 # ignore last clm
                 n-=1
             if c<t:
-                # eliminate the entire 1st row
+                # eliminate the entire rth row
                 r+=1
         return False
