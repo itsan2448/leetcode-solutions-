@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/itsan2448/leetcode-solutions-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/itsan2448/leetcode-solutions-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/itsan2448/leetcode-solutions-/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itsan2448/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0732-my-calendar-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/itsan2448/leetcode-solutions-/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
