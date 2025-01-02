@@ -4,8 +4,12 @@
 -- group by email
 -- having count(*)>1
 
-with tmp as(
-    select email,row_number() over(partition by email) as rnk
-    from person
-)
-select distinct email from tmp where rnk>1
+-- with tmp as(
+--     select email,row_number() over(partition by email) as rnk
+--     from person
+-- )
+-- select distinct email from tmp where rnk>1
+
+select email from person 
+group by email
+having count(email)>1
