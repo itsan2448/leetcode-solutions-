@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itsan2448/leetcode-solutions-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/itsan2448/leetcode-solutions-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/2358-number-of-ways-to-split-array) |
 | [2479-meeting-rooms-iii](https://github.com/itsan2448/leetcode-solutions-/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/itsan2448/leetcode-solutions-/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/itsan2448/leetcode-solutions-/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/itsan2448/leetcode-solutions-/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/itsan2448/leetcode-solutions-/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/itsan2448/leetcode-solutions-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/3427-special-array-ii) |
