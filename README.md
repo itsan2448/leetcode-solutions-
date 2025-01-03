@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/itsan2448/leetcode-solutions-/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/itsan2448/leetcode-solutions-/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/itsan2448/leetcode-solutions-/tree/master/0585-investments-in-2016) |
+| [1179-game-play-analysis-i](https://github.com/itsan2448/leetcode-solutions-/tree/master/1179-game-play-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/itsan2448/leetcode-solutions-/tree/master/1278-product-price-at-a-given-date) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/itsan2448/leetcode-solutions-/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1664-find-users-with-valid-e-mails](https://github.com/itsan2448/leetcode-solutions-/tree/master/1664-find-users-with-valid-e-mails) |
