@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0031-next-permutation) |
 | [0068-text-justification](https://github.com/itsan2448/leetcode-solutions-/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/itsan2448/leetcode-solutions-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/itsan2448/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/itsan2448/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsan2448/leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/itsan2448/leetcode-solutions-/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/itsan2448/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/itsan2448/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/0394-decode-string) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/itsan2448/leetcode-solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/itsan2448/leetcode-solutions-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/itsan2448/leetcode-solutions-/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/itsan2448/leetcode-solutions-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
