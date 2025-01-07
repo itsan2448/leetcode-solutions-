@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> retLPS(const string& p){
+        // O(n)
         int n=p.length();
         vector<int> lps(n,0);
         int prevLps=0, i=1;
@@ -37,6 +38,7 @@ public:
         return 0;
     }
     vector<string> stringMatching(vector<string>& words) {
+        // O(n+m)
         vector<string> ans;
         int n=words.size();
         sort(words.begin(),words.end(),[](const string& a,const string& b)->bool{
