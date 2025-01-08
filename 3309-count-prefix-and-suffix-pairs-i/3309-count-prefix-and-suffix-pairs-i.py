@@ -8,9 +8,7 @@ class Solution:
                 s=len(words[j])
                 if s>=z:
                     pre=words[j][0:z]
-                    suf=words[j][-z:]
-                    # print(pre)
-                    # print(suf)
+                    suf=words[j][-z:]                    
                     if words[i]==pre and words[i]==suf:
                         ans+=1
                 else:
