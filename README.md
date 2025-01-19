@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/itsan2448/leetcode-solutions-/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/itsan2448/leetcode-solutions-/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/itsan2448/leetcode-solutions-/tree/master/0539-minimum-time-difference) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/itsan2448/leetcode-solutions-/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0407-trapping-rain-water-ii) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0967-minimum-falling-path-sum) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/itsan2448/leetcode-solutions-/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/itsan2448/leetcode-solutions-/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/itsan2448/leetcode-solutions-/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsan2448/leetcode-solutions-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/itsan2448/leetcode-solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/itsan2448/leetcode-solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/itsan2448/leetcode-solutions-/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/itsan2448/leetcode-solutions-/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/itsan2448/leetcode-solutions-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/itsan2448/leetcode-solutions-/tree/master/1304-longest-happy-string) |
