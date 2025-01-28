@@ -17,8 +17,6 @@ class Solution:
                 for r,c in dir:
                     if a+r>=0 and a+r<n and b+c>=0 and b+c<m and grid[a+r][b+c]>0:
                         q.append((a+r,b+c))
-
-                        # vis.add(a+r,b+c)
             return res
 
         
