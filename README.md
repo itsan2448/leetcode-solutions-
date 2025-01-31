@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/itsan2448/leetcode-solutions-/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/itsan2448/leetcode-solutions-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0854-making-a-large-island](https://github.com/itsan2448/leetcode-solutions-/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/itsan2448/leetcode-solutions-/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/itsan2448/leetcode-solutions-/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/itsan2448/leetcode-solutions-/tree/master/0407-trapping-rain-water-ii) |
 | [0772-construct-quad-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/0772-construct-quad-tree) |
+| [0854-making-a-large-island](https://github.com/itsan2448/leetcode-solutions-/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/itsan2448/leetcode-solutions-/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itsan2448/leetcode-solutions-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/itsan2448/leetcode-solutions-/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/itsan2448/leetcode-solutions-/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/itsan2448/leetcode-solutions-/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itsan2448/leetcode-solutions-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/itsan2448/leetcode-solutions-/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/itsan2448/leetcode-solutions-/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/itsan2448/leetcode-solutions-/tree/master/0971-shortest-bridge) |
 | [0988-flip-equivalent-binary-trees](https://github.com/itsan2448/leetcode-solutions-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/itsan2448/leetcode-solutions-/tree/master/1035-cousins-in-binary-tree) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/itsan2448/leetcode-solutions-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/itsan2448/leetcode-solutions-/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itsan2448/leetcode-solutions-/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/itsan2448/leetcode-solutions-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/itsan2448/leetcode-solutions-/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/itsan2448/leetcode-solutions-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/itsan2448/leetcode-solutions-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
